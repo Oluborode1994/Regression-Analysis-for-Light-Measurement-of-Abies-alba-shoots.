@@ -1,0 +1,2 @@
+# Regression-Analysis-for-Light-Measurement-of-Abies-alba-shoots.
+I determined the relative photosynthetic photon flux (rPPFD) along selected shoots of Abies alba using two LightScout quantum metres.  I then calculated the mean rPPFD values in percent for each needle age class. The regression analysis shows that rPPFD decreases linearly from the youngest one-year-old shoot increment towards the trunk. 
